@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>New user Register for DevOps Learning at Devops TechLab for Jenkins Training.</h1>
-    <p>Please fill in this form to create an account at Devops TechLab.</p>
+    <p>Please fill in this form to create an account at DevOps TechLab.</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
