@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for DevOps Learning at Devops TechLab for Jenkins Training.</h1>
+    <h1>New user Register for DevOps Learning at Devops TechLab.</h1>
     <p>Please fill in this form to create an account at DevOps TechLab. To attend training webcam is compulsory from next session.</p>
     <hr>
      
