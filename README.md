@@ -1,2 +1,2 @@
-Testing Poll SCM. Checking web hook trigger.
+Testing Poll SCM. Checking web hook trigger automatically...
 http://34.16.152.44:8080/job
